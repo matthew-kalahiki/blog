@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Lab 4 Post"
+date:   2021-09-18
+categories: jekyll update
+author: Matthew Kalahiki
+---
+This lab was much less stressful than the last because I had a better grasp of how ruby and jekyll work than I did going into the last lab. Something that was new to me and the most difficult part of the lab for me was understanding how the premade ruby files work and figuring out how to manipulate them to do what I wanted them to do. I look forward to better understanding the layout of each premade file and learning how to alter them to make a really cool website. As for the links and the images that I must include in this post, I'm not sure if they're supposed to relate to the lab or if they are just completely random, but here are some links and images:
+
+- [Mac Jones Stats][mac-jones-stats]
+- [POP!][pop]
+
+![patriots](/blog/images/pats.jpg){: width="250" }
+
+![penguins](/blog/images/penguins.jpg){: width="250" }
+
+
+
+
+[mac-jones-stats]:https://www.espn.com/nfl/player/_/id/4241464/mac-jones
+[pop]:https://relativecminor.itch.io/pop
