@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Lab 5 Post"
+date:   2021-09-24
+categories: jekyll update
+author: Matthew Kalahiki
+---
+[Lab 5][lab5]
+
+Overall, I feel like the lab was a success. In order to convert the scenario into a data modeling framework, I had to make a few assumptions. First off, I decided that although an item's listing could be its own entity, it is more concise to make the listing the relationship and add the given information to the item's attributes. Similarly, Costumer accounts and orders could have been individual entities, but in order to simplify the diagrams, I ended up with 3 entities and 2 relationships, as seen in the diagrams below. In my opinion, the hardest part of the lab was deciding what should be entities and what should simply be generalized in other entities. For example, the description makes it seem like costumer accounts should be its own entity, but the attributes of the account would be the exact same as the attributes for the costumer, so it felt kind of redundant. I also had some trouble with the making lines on lucid chart. There were a couple of aspects on the line's style that I didn't want, and it wouldn't let me turn them off. Besides that, I'm pretty satisfied with how my diagrams turned out.
+
+![Entity Relationship Diagram](/blog/images/erdiagram.png){: width="400"}
+![Schema Diagram](/blog/images/schema.png){: width="400" }
+
+
+[lab5]:https://hendrix-cs.github.io/csci340/labs/datamodeling.html
