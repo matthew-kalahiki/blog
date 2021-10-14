@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Lab 7 Post"
+date:   2021-10-11
+categories: jekyll update
+author: Matthew Kalahiki
+---
+[GitHub Repository][Repository]
+
+The tutorial was a little long, but it was very helpful. The easiest part was copying and pasting the given code into the necessary files. The hardest part for me, was downloading everything and creating the project. This is just because right after you make the project, the solution explorer doesn't open automatically, so I initially thought the project didn't make the right files, but I figured it out eventually. As for creating my own application, I had some trouble. My application and database is related to video games, and I made the mistake of naming my project video games as well as the pages folder and models class. Because they all had the same name, some of the code couldn't differentiate between the files and I had a lot of errors that didn't make sense. I tried simply renaming the project, but that lead to a bunch of reference errors, so I ultimately had to restart completely. I see many similarities between jekyll and razor frameworks, such as the premade files that intertwine, but I also see many differences, such as the use of databases and c#. I feel confident in making another Razor application because of how in depth I observed the aspects of my first project before I had to scrap it and restart. 
+
+
+
+
+[Repository]:https://github.com/matthew-kalahiki/csci340lab7
