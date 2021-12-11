@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Lab 9 Post"
+date:   2021-11-20
+categories: jekyll update
+author: Matthew Kalahiki
+---
+
+I was in charge of the first section of the tutorial for my team, and as far as I know, everything went swimmingly. There is a possibility that something that I did messed up the rest of the lab for my other group members, but not that I know of. Also, I know that many groups had trouble with issues relating to Hendrix wifi, but I never used Hendrix wifi, so I didn't really have any problems
